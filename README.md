@@ -1,6 +1,7 @@
 # Countrys_SAP
 
-**Countrys_SAP** es una aplicación diseñada para facilitar el acceso a informacion relacionada con el significado real de las banderas de cada uno de los paises
+**Countrys_SAP** es una aplicación diseñada para facilitar el acceso a información detallada sobre el significado y simbolismo de las banderas de cada país alrededor del mundo. Además de proporcionar descripciones históricas y culturales, la aplicación ofrece datos adicionales como la geografía, población, idioma oficial y otros aspectos relevantes de cada nación. El objetivo principal es promover el conocimiento y la comprensión de la diversidad cultural a través del estudio de sus símbolos nacionales.
+
 ## Comenzando 🚀
 
 Para obtener una copia del proyecto, puedes clonar el repositorio desde GitHub utilizando el siguiente comando o descargarlo directamente desde el enlace:
