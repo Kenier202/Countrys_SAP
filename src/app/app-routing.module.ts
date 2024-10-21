@@ -5,10 +5,11 @@ import { AboutPageComponent } from './shared/pages/about-page/about-page.compone
 import { ContactComponent } from './shared/components/contact/contact.component';
 
 const routes : Routes = [
+  // {
+  //   path: 'home',
+  //   component: HomePageComponent
+  // },
   {
-    path: 'home',
-    component: HomePageComponent
-  },{
     path: 'about',
     component: AboutPageComponent
   },
@@ -21,7 +22,7 @@ const routes : Routes = [
   },
   {
     path: '**',
-    component: HomePageComponent
+    redirectTo: 'countries/by-capital'
   }
 ];
 
