@@ -1,7 +1,7 @@
-import { Injectable } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
 import { catchError, delay, map, Observable, of } from 'rxjs';
 import { Country } from '../interfaces/country';
+import { HttpClient } from '@angular/common/http';
+import { Injectable } from '@angular/core';
 
 @Injectable({providedIn: 'root'})
 export class CountriesService {
